@@ -23,7 +23,7 @@
 
 
 language: ruby
- rvm:
+rvm:
  - 2.1
 
 install:
