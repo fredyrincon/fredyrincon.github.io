@@ -8,7 +8,7 @@
         <div class="mainmenu">
             {% for p in site.pages %}
                 {% if p.layout == 'page' %}
-                    <a href="{{ site.baseurl | prepend: site.url }}">Home</a>
+                    <a href="https://fredyrincon.github.io">Home</a>
                     {% if page.url == p.url %}
                         <a href="{{p.url}}" class="active">{{ p.title }}</a>
                     {% else %}
