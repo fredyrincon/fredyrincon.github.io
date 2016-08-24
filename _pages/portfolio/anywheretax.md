@@ -1,6 +1,6 @@
 ---
-layout: page
-title:  "AnywhereTax"
+layout: post
+title:  "Portfolio"
 permalink: "/portfolio/"
 ---
 
