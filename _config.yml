@@ -1,0 +1,23 @@
+# Site settings
+title: Rúben Sousa
+email: rubensousa.mieti@gmail.com
+description: >
+  I'm a student of Telecommunications and Informatics at University of Minho hoping to finish my master's degree on 2017.
+  I'm also a part-time Android developer freelancer.
+#baseurl: "/"
+url: "https://rubensousa.github.io"
+fixedNav: 'true' # true or false
+#theme: blue # green, blue, orange, purple, grey
+twitterUsername: 
+githubUsername: rubensousa
+linkedinUsername: sousaruben
+dribbbleUsername:
+codepenUsername:
+
+# Build settings
+permalink: /:year/:month/:title
+markdown: kramdown
+include: [_pages]
+exclude: [_site, CHANGELOG.md, LICENSE, README.md]
+sass:
+  style: compressed
