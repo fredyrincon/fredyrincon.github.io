@@ -7,4 +7,7 @@
 
 ### What's New
 
-New blog, new post comming soon!!.
+- New blog, new post comming soon!!.
+- TravisCI included
+
+
