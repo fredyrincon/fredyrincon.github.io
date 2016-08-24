@@ -23,6 +23,8 @@
 
 
 language: ruby
+ rvm:
+ - 2.1
 
 install:
   # Install binary pandoc from Rstudio
