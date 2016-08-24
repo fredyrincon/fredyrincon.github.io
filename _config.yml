@@ -1,22 +1,63 @@
-# Site settings
-title: Fredy Rincon
+# General Settings
+name: Fredy Rincon
+job_title: Mobile Application Developer Engineer (Android/iOS/Xamarin.Forms)
 email: fredyrincon@hotmail.com
-description: >
-  Im Senior Android Developer
-#baseurl: "/"
-url: "https://fredyrincon.github.io"
-fixedNav: 'true' # true or false
-#theme: blue # green, blue, orange, purple, grey
-twitterUsername: 
-githubUsername: fredyrincon
-linkedinUsername: fredyrincon
-dribbbleUsername:
-codepenUsername:
+description:  A positive and experienced Software and Mobile Developer Engineer with diverse industry experience spanning over 7 years performing Senior Developer roles as well as Management roles in different projects. My excellent interpersonal skills combined with my perseverance and dedication to solving problems through technology, plus my reliable and ethical manner allows me to collaborate and adapt easily in a developer team. I enjoy challenging and significant roles.
+avatar: https://pbs.twimg.com/profile_images/606585229034135553/2NqZJYQI.png
+favicon: /favicon.ico
+analytics_code: UA-83050439-1
+disqus: fredyrincon-github-io.disqus.com
 
-# Build settings
-permalink: /:year/:month/:title
+# Social Accounts
+social_networks:
+-  { name: facebook, url: 'https://www.facebook.com/frerin' }
+-  { name: linkedin, url: 'https://au.linkedin.com/in/fredyrincon' }
+-  { name: github, url: 'https://github.com/fredyrincon/' }
+
+# Modules Settings
+show_categories: 1
+show_tags: 1
+show_mood: 1
+show_email: 1
+show_rss: 1
+show_comments: 1
+show_menu: 0
+fixed_sidebar: 1
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: "true"
+
+# Serving
+url: ""
+baseurl: ""
+
+# Includes
+include: ["_pages"]
+
+# Outputting
+permalink: /:categories/:title.html
+category_dir: categories
+
+# Plugins
+gems: ['jekyll-paginate']
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
+
+# Conversion
 markdown: kramdown
-include: [_pages]
-exclude: [_site, CHANGELOG.md, LICENSE, README.md]
+
+# Post Settings
+excerpt_separator: <!--more-->
+
+# Assets Settings
 sass:
+  sass_dir: assets/partials
   style: compressed
