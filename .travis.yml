@@ -23,7 +23,14 @@
 
 
 language: ruby
+rvm:
+ - 2.1
 
+script:
+  - npm install
+  - bundle exec jekyll build
+  - gulp compress
+  
 install:
   # Install binary pandoc from Rstudio
   # To use Pandoc, uncomment the following
@@ -38,7 +45,7 @@ install:
   # Install Jekyll and dependencies
   - bundle install
 
-script: bundle exec rake site:deploy --quiet
+ # script: bundle exec rake site:deploy --quiet
 
 env:
   global:
