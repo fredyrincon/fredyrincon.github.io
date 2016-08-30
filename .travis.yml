@@ -24,11 +24,15 @@
 
 language: ruby
 rvm:
- - 2.1
+  - &ruby1 2.3.1
+  - &ruby2 2.2.5
+  - &ruby3 2.1.9
+  - &jruby jruby-9.1.2.0
+
 
 script:
   - npm install
-  - bundle exec jekyll build
+  - bundle exec jekyll build --trace
   - gulp compress
   
 install:
@@ -55,3 +59,8 @@ env:
 # get Github token from your Travis CI profile page
 # gem install travis
 # travis encrypt 'GIT_NAME="YOUR_USERNAME" GIT_EMAIL="YOUR_EMAIL" GH_TOKEN=YOUR_TOKEN'
+
+notifications:
+  email:
+    recipients:
+      - fredyrincon@hotmail.com
