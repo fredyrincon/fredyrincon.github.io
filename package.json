@@ -1,0 +1,13 @@
+{
+  "name": "jekyll",
+  "main": "./lib/main",
+  "version": "1.4.2",
+  "description": "Personal Blog",
+  "license": "MIT",
+  "keywords": [
+    "blog",
+    "Android Developer",
+    "Mobile Developer",
+    "IT"
+  ]
+}
