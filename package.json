@@ -7,5 +7,9 @@
     "Android Developer",
     "Mobile Developer",
     "IT"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fredyrincon/fredyrincon.github.io.git"
+  },
 }
