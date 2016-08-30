@@ -4,7 +4,7 @@ date: 2016-08-30 11:00
 title: "Stackshare: The tools and services used by some of the world's best startups "
 category: 
 - Stackshare
-- Knowledge base
+- Knowledge
 tags:
 - Stackshare
 - Startups
