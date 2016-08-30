@@ -9,7 +9,7 @@ tags:
 - Stackshare
 - Startups
 ---
-I remember working for a proactive Dev Leader, he always used to push us to keep learning new staff. In fact one of the KPI was to learn 5 skills or more during the financial year.
+I remember working for a proactive Dev Leader, he always used to push us to keep learning new stuff. In fact one of the KPI was to learn 5 skills or more during the financial year.
 
 So, I am going to list some good ways to find out what skills would be handly to have:
 
