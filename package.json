@@ -1,7 +1,5 @@
 {
-  "name": "jekyll",
-  "main": "./lib/main",
-  "version": "1.4.2",
+  "name": "fredyrincon.github.io",
   "description": "Personal Blog",
   "license": "MIT",
   "keywords": [
