@@ -61,3 +61,6 @@ excerpt_separator: <!--more-->
 sass:
   sass_dir: assets/partials
   style: compressed
+  
+rdiscount:
+extensions: [smart] # i'm indented
