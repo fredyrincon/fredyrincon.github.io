@@ -17,3 +17,7 @@ Welcome to the open-source Codepath Android Cliffnotes! Our goal is to become th
 
 <a href="https://github.com/codepath/android_guides">CodePath Android Cliffnotes</a>
 
+Actually I have join the community and I have started adding contect in the wiki page for the CodePath for android. My first contibution was adding information about Realm database framework and Swagger, two of my favourites libraries.
+
+:)
+
