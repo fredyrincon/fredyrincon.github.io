@@ -1,0 +1,19 @@
+---
+layout: post
+date: 2016-08-31 14:00
+title: "Android Guides: Extensive Open-Source Guides for Android Developers"
+category: 
+- Android Guides
+- Knowledge
+tags:
+- Android
+- Guides
+---
+Doing some research about android standars and guidelines I came accross these github repo with a really valuable links:
+
+Called: CodePath Android Cliffnotes
+
+Welcome to the open-source Codepath Android Cliffnotes! Our goal is to become the central crowdsourced resource for complete and up-to-date Android content and tutorials. Just take me to the notes!
+
+<a href="https://github.com/codepath/android_guides">CodePath Android Cliffnotes</a>
+
