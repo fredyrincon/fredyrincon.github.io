@@ -9,7 +9,7 @@ tags:
 - Android
 - Guides
 ---
-Doing some research about android standars and guidelines I came accross these github repo with a really valuable links:
+Doing some research about android standars and guidelines I came across these github repo with a really valuable links:
 
 Called: CodePath Android Cliffnotes
 
