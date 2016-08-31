@@ -32,7 +32,7 @@ rvm:
 
 script:
   - npm install
-  - bundle exec jekyll build --trace
+  - bundle exec jekyll build
   - gulp compress
   
 install:
