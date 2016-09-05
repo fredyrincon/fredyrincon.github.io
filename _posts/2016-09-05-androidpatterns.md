@@ -10,9 +10,9 @@ tags:
 - API
 ---
 
-By using good development practices and development patterns help you to build better apps, increase quality of the product and increase your productivity.
+Using good development practices and development patterns help you to build better apps, increase quality of the product and increase your productivity.
 
-Android has 3 groups or patterns:
+Android has 3 groups of patterns:
 
 1. Creational patterns: how you create objects.
 2. Structural patterns: how you compose objects.
