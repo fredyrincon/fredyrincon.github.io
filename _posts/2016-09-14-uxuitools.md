@@ -43,10 +43,3 @@ Features:
 - full of examples.
 
 <a href="https://www.invisionapp.com">Check Invision tool </a>
-
-
-<a href="intent://healthconnex.com.au/carehub#Intent;package=au.com.healthconnex.mcmhealthdevices;scheme=http;end;"> test carehub</a>
-
-<a href="intent://healthconnex.com.au/carehub#Intent;package=au.com.kamailio.openlink;scheme=http;end;"> test simple app</a>
-
-
